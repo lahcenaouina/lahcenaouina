@@ -10,8 +10,10 @@ I've been learning code since I was 14 years old and have taken it seriously for
 *   🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/lahcenaouina/)
 *   ✉️  You can contact me at [lahcenaouina@gmail.com](mailto:lahcenaouina@gmail.com)
 *   🚀  I'm currently working on [asfarvoyages](https://asfarferry.fr/)
-*   🧠  I'm learning Machine learning
+*   🧠  I'm learning Micro-services (web)
 *   🤝  I'm open to collaborating on Games 2D browser
+
+*   Project's done : [asfarvoyages](https://asfarferry.fr/)
 
 ### Skills 
 <p align="left">
