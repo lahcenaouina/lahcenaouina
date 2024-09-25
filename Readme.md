@@ -11,9 +11,7 @@ I've been learning code since I was 14 years old and have taken it seriously for
 *   ✉️  You can contact me at [lahcenaouina@gmail.com](mailto:lahcenaouina@gmail.com)
 *   🚀  I'm currently working on web app using Angular and Laravel
 *   🧠  I'm learning Micro-services (web)
-*   🤝  I'm open to collaborating on Games 2D browser
-
-*   Project's done : [asfarvoyages](https://asfarferry.fr/)
+*   🤝  I'm open to collaborating 
 
 ### Skills 
 <p align="left">
